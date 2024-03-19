@@ -1,0 +1,469 @@
+[
+    {
+        "Code": "PLAY",
+        "English": "PLAY",
+        "Danish": "SPIL"
+    },
+    {
+        "Code": "Version",
+        "English": "Version 2",
+        "Danish": "Version 2"
+    },
+    {
+        "Code": "Login",
+        "English": "Login",
+        "Danish": "Login"
+    },
+    {
+        "Code": "More Games",
+        "English": "More Games",
+        "Danish": "Flere spil"
+    },
+    {
+        "Code": "Privacy Policy",
+        "English": "Privacy Policy",
+        "Danish": "Privatlivspolitk"
+    },
+    {
+        "Code": "Room Lists",
+        "English": "Room Lists",
+        "Danish": "Spiloversigt"
+    },
+    {
+        "Code": "Join Random",
+        "English": "Join Random",
+        "Danish": "Tilfældigt spil"
+    },
+    {
+        "Code": "Change Name",
+        "English": "Change Name",
+        "Danish": "Indtast brugernavn"
+    },
+    {
+        "Code": "Join Custom",
+        "English": "Join Custom",
+        "Danish": "Privat spil"
+    },
+    {
+        "Code": "Room Code",
+        "English": "Room Code",
+        "Danish": "Kode til privat spil"
+    },
+    {
+        "Code": "Peantc",
+        "English": "Please enter a name to change.",
+        "Danish": "Vælg et navn som skal ændres"
+    },
+    {
+        "Code": "Submit",
+        "English": "Submit",
+        "Danish": "Gem"
+    },
+    {
+        "Code": "Bidding",
+        "English": "Bidding",
+        "Danish": "Melding"
+    },
+    {
+        "Code": "Biddinginfo",
+        "English": "Your bid should be better then previous highest bid ",
+        "Danish": "Dit bud skal være højere end det foregående bud"
+    },
+    {
+        "Code": "Show Cards",
+        "English": "Show Cards",
+        "Danish": "Vis kort"
+    },
+    {
+        "Code": "Bid",
+        "English": "Bid",
+        "Danish": "Bud"
+    },
+    {
+        "Code": "Pass",
+        "English": "Pass",
+        "Danish": "Vælg trumf"
+    },
+    {
+        "Code": "Selection",
+        "English": "Selection",
+        "Danish": " "
+    },
+    {
+        "Code": "Select",
+        "English": "Select",
+        "Danish": "Vælg"
+    },
+    {
+        "Code": "Next",
+        "English": "Next",
+        "Danish": "Næste"
+    },
+    {
+        "Code": "Exit",
+        "English": "Exit",
+        "Danish": "Afslut"
+    },
+    {
+        "Code": "Stop",
+        "English": "Stop",
+        "Danish": "hold op"
+    },
+    {
+        "Code": "Rules",
+        "English": "Rules",
+        "Danish": "Regler"
+    },
+    {
+        "Code": "Language",
+        "English": "Language",
+        "Danish": "Sprog"
+    },
+    {
+        "Code": "Menu",
+        "English": "Menu",
+        "Danish": "Menu"
+    },
+    {
+        "Code": "Resume",
+        "English": "Resume",
+        "Danish": "Genoptag"
+    },
+    {
+        "Code": "Scores",
+        "English": "Scores",
+        "Danish": "Scorer"
+    },
+    {
+        "Code": "SelectLanguage",
+        "English": "Select Language",
+        "Danish": "Vælg sprog"
+    },
+    {
+        "Code": "ShowRules",
+        "English": "Show Rules",
+        "Danish": "Vis regler"
+    },
+    {
+        "Code": "Pass",
+        "English": "Pass",
+        "Danish": "Pas"
+    },
+    {
+        "Code": "biddingWait",
+        "English": " is bidding please wait",
+        "Danish": " byder, vent venligst"
+    },
+    {
+        "Code": "selectingWait",
+        "English": " is selecting please wait",
+        "Danish": " der bestemmes, vent venligst"
+    },
+    {
+        "Code": "bidHigher",
+        "English": "Please bid higher or pass",
+        "Danish": "Byd højere eller meld pas"
+    },
+    {
+        "Code": "bidWon",
+        "English": " Won The Bid",
+        "Danish": " Vandt byderunden"
+    },
+    {
+        "Code": "waitForPartnerAce",
+        "English": " Won The Bid \n Waiting for Partner ace to be selected.",
+        "Danish": " Vandt byderunden. \n Venter på at der meldes makkeres"
+    },
+    {
+        "Code": "wonTrick",
+        "English": " won the trick",
+        "Danish": " Vandt stikket"
+    },
+    {
+        "Code": "playerLeft",
+        "English": "A player has left Room Game will restart now",
+        "Danish": "En spiller har forladt bordet. Venter på en ny spiller"
+    },
+    {
+        "Code": "selectExchange",
+        "English": "Please select 3 cards to exchange",
+        "Danish": "Vælg venligst 3 kort som du ønsker at bytte"
+    },
+    {
+        "Code": "choseEchange",
+        "English": "Player chosed to exchange cards",
+        "Danish": "Spiller vælger at bytte kort"
+    },
+    {
+        "Code": "enterRoomCode",
+        "English": "Please write a room code before attempting to join custom room",
+        "Danish": "Skriv venligst koden for at deltage i et privat spil"
+    },
+    {
+        "Code": "cannotBeSame",
+        "English": "Trump and partnerAce cannot be same",
+        "Danish": "Trumf og makkeres kan ikke være samme kulør"
+    },
+    {
+        "Code": "chose1",
+        "English": " chose ",
+        "Danish": " Vælger "
+    },
+    {
+        "Code": "chose",
+        "English": " chose ",
+        "Danish": " Vælg "
+    },
+    {
+        "Code": "aceAs",
+        "English": " ace as Partner Ace",
+        "Danish": "-es som makkeres"
+    },
+    {
+        "Code": "trumpSuit",
+        "English": " suit as Trump",
+        "Danish": " som trumf"
+    },
+    {
+        "Code": "isPartner",
+        "English": "is partner. ",
+        "Danish": "Er makkeres. "
+    },
+    {
+        "Code": "chossingTrump",
+        "English": " is now choosing trump",
+        "Danish": " Vælger trumf"
+    },
+    {
+        "Code": "Viping",
+        "English": "Vipping is taking place...",
+        "Danish": "Vipper"
+    },
+    {
+        "Code": "vipStoped",
+        "English": "Vip stoped at ",
+        "Danish": "Vip stoppede ved"
+    },
+    {
+        "Code": "and",
+        "English": " And ",
+        "Danish": " og "
+    },
+    {
+        "Code": "suitAsTrump",
+        "English": " suit as Trump",
+        "Danish": " bekende kulør"
+    },
+    {
+        "Code": "pleasewait",
+        "English": "please wait connecting to lobby",
+        "Danish": "Vent venligst. Opretter forbindelse"
+    },
+    {
+        "Code": "connecting",
+        "English": "Connecting...",
+        "Danish": "Opretter forbindelse"
+    },
+    {
+        "Code": "joiningRoom",
+        "English": "Joining Room...",
+        "Danish": "Deltager i spillet"
+    },
+    {
+        "Code": "goingToStart",
+        "English": "master client is going to start ",
+        "Danish": ""
+    },
+    {
+        "Code": "ReadyToPlay",
+        "English": "Ready to play multiplayer",
+        "Danish": "Klar til at spille multiplayer"
+    },
+    {
+        "Code": "serverConnection",
+        "English": "Connected to server",
+        "Danish": "Der er oprettet forbindelse"
+    },
+    {
+        "Code": "Tricks",
+        "English": "Tricks",
+        "Danish": "Stik"
+    },
+    {
+        "Code": "Joker",
+        "English": "Joker",
+        "Danish": "Joker"
+    },
+    {
+        "Code": "Spades",
+        "English": "Spades",
+        "Danish": "Spar"
+    },
+    {
+        "Code": "Club",
+        "English": "Clubs",
+        "Danish": "Klør"
+    },
+    {
+        "Code": "Diamond",
+        "English": "Diamonds",
+        "Danish": "Ruder"
+    },
+    {
+        "Code": "Spade",
+        "English": "Spades",
+        "Danish": "Spar"
+    },
+    {
+        "Code": "Heart",
+        "English": "Hearts",
+        "Danish": "Hjerterfri"
+    },
+    {
+        "Code": "Ordinary",
+        "English": "Ordinary",
+        "Danish": "Almindelige"
+    },
+    {
+        "Code": "Half",
+        "English": "Half",
+        "Danish": "Halve"
+    },
+    {
+        "Code": "Sans",
+        "English": "Sans",
+        "Danish": "Uden trumf"
+    },
+    {
+        "Code": "Clubs",
+        "English": "Clubs",
+        "Danish": "Klør"
+    },
+    {
+        "Code": "VIP",
+        "English": "VIP",
+        "Danish": "VIP"
+    },
+    {
+        "Code": "TrickGame1",
+        "English": "Sun",
+        "Danish": "Sol"
+    },
+    {
+        "Code": "noTrickGame",
+        "English": "Pure Sun",
+        "Danish": "Ren sol"
+    },
+    {
+        "Code": "noTrickGameFaceUp",
+        "English": "Down",
+        "Danish": "Bordlægger"
+    },
+    {
+        "Code": "English",
+        "English": "English",
+        "Danish": "English"
+    },
+    {
+        "Code": "Danish",
+        "English": "Danish",
+        "Danish": "Danish"
+    },
+    {
+        "Code": "Please select your language",
+        "English": "Please select your language",
+        "Danish": "Vælg venligst dit sprog"
+    },
+    {
+        "Code": "exchangecards",
+        "English": "Do you want to exchange card from deck?",
+        "Danish": "Ønsker du at bytte 3 kort ?"
+    },
+    {
+        "Code": "Trump",
+        "English": "Trump",
+        "Danish": "Trumf"
+    },
+    {
+        "Code": "Bidwinner",
+        "English": "bid Winner",
+        "Danish": "Melder"
+    },
+    {
+        "Code": "PartnerAce",
+        "English": "Partner Ace",
+        "Danish": "Makkeres"
+    },
+    {
+        "Code": "Partner",
+        "English": "Partner",
+        "Danish": "Makker"
+    }
+    ,
+    {
+        "Code": "SelfPartner",
+        "English": "Self Partner",
+        "Danish": "Selvmakker"
+    },
+    {
+        "Code": "Hearts",
+        "English": "Hearts",
+        "Danish": "Hjerterfri"
+    },
+    {
+        "Code": "Whist",
+        "English": "Whist",
+        "Danish": "Whist"
+    },
+    {
+        "Code": "Do you want to exchange cards from Deck ?",
+        "English": "Do you want to exchange cards from Deck ?",
+        "Danish": "Vil du bytte kort?"
+    },
+    {
+        "Code": "Yes",
+        "English": "Yes",
+        "Danish": "Nej"
+    },
+    {
+        "Code": "No",
+        "English": "No",
+        "Danish": "Ja"
+    },
+    {
+        "Code": "Change your avatar's look",
+        "English": "Change your avatar's look",
+        "Danish": "din avatars udseende"
+    },
+    {
+        "Code": "Hair",
+        "English": "Hair",
+        "Danish": "Hår"
+    },
+    {
+        "Code": "Top",
+        "English": "Top",
+        "Danish": "Bluse"
+    },
+    {
+        "Code": "Eyes",
+        "English": "Eyes",
+        "Danish": "øjne"
+    },
+    {
+        "Code": "Shoes",
+        "English": "Shoes",
+        "Danish": "Sko"
+    },
+    {
+        "Code": "Bottom",
+        "English": "Bottom",
+        "Danish": "Bukser"
+    },
+    {
+        "Code": "Vip",
+        "English": "Vip",
+        "Danish": "VIP"
+    }
+
+]
